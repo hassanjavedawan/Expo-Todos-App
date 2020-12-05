@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "expoFirstProject",
-    "slug": "expoFirstProject",
+    "name": "Todos Application",
+    "slug": "Todos Application",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/pic.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFFFFF"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
